@@ -72,7 +72,7 @@ The variables that should be removed from the input data because they are neithe
 In the model, the number of neurons ranged from 1 to 80, and the number of hidden layers varied from 1 to 3 layers. Three activation functions were assessed for the hidden layers: ReLU function. The sigmoid activation function was used for the output layer.
 
 Optimization 1:
-- Number of hidden layers: 2
+- Number of hidden layers: 3
 - Number of neurons in the first hidden layer: 15
 - Number of neurons in the second hidden layer: 25
 - Number of neurons in the third hidden layer: 35
@@ -80,7 +80,7 @@ Optimization 1:
 - Activation function used for the output layer: Sigmoid
 
 Optimization 2:
-- Number of hidden layers: 2
+- Number of hidden layers: 3
 - Number of Epches: 200
 - Number of neurons in the first hidden layer: 15
 - Number of neurons in the second hidden layer: 25
